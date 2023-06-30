@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlackJack/BlackJack.iml" filepath="$PROJECT_DIR$/BlackJack/BlackJack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD-UseCases.iml" filepath="$PROJECT_DIR$/.idea/LLD-UseCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/LinkedIn/LinkedIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieTicketBookingSystem/MovieTicketBookingSystem.iml" filepath="$PROJECT_DIR$/MovieTicketBookingSystem/MovieTicketBookingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zomato/Zomato.iml" filepath="$PROJECT_DIR$/Zomato/Zomato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFlipkart/myFlipkart.iml" filepath="$PROJECT_DIR$/myFlipkart/myFlipkart.iml" />
+    </modules>
+  </component>
+</project>
