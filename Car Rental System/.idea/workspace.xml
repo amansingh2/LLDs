@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="91410c44-9b1e-457a-88ae-c5377d6a7f6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car Rental System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BillingType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarRentalSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Receptionist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VehicleCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VehicleType.java" afterDir="false" />
-    </list>
+    <list default="true" id="91410c44-9b1e-457a-88ae-c5377d6a7f6f" name="Changes" comment="ADDED FILES FOR CAR-RENTAL-SYSTEM" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -64,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1688317002448</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADDED FILES FOR CAR-RENTAL-SYSTEM">
+      <option name="closed" value="true" />
+      <created>1688317573264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688317573264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADDED FILES FOR CAR-RENTAL-SYSTEM" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED FILES FOR CAR-RENTAL-SYSTEM" />
   </component>
 </project>
